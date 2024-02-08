@@ -1,9 +1,11 @@
 #include <iostream>
 #include <math>
-int main() {
+int main() 
+{
 
 }
 
-void print(){
+void print()
+{
 
 }
